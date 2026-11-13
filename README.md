@@ -1,3 +1,6 @@
+# AhmedMoharam74-Unit-testing-2
+Assignment repo for assignment/1-11 (Unit testing 2)
+
 # Simulation Unit Testing Assignment
 
 Mini Checkout Engine starter codebase for practicing unit testing in .NET.
